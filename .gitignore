@@ -1,0 +1,5 @@
+# Ignore the executable created by makefile
+shell
+
+# Ignore object files
+*.o
